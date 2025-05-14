@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/medsaad-mcp-db-navigator-badge.png)](https://mseep.ai/app/medsaad-mcp-db-navigator)
+
 # MySQL Navigator MCP
 
 A powerful MySQL/MariaDB database navigation tool using MCP (Model Control Protocol) for easy database querying and management.
